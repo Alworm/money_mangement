@@ -1,4 +1,4 @@
-# money_mangement
+# 理财计算器
 
 ## 项目适用
 * 简单的Java GUI swing
